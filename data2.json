@@ -4,20 +4,20 @@
     "title": "Flowey",
     "content": "Only 5 inches",
     "price": 12000,
-    "img": "https://runwithoz.github.io/img/img/cont3_cake6.png"
+    "img": "https://runwithoz.github.io/ex_img/cont3_cake6.png"
   },
   {
     "id": 7,
     "title": "Baby Shoes",
     "content": "for less than 6",
     "price": 11000,
-    "img": "https://runwithoz.github.io/img/img/cont3_cake7.png"
+    "img": "https://runwithoz.github.io/ex_img/cont3_cake7.png"
   },
   {
     "id": 8,
     "title": "Red Herring",
     "content": "Born in France",
     "price": 15000,
-    "img": "https://runwithoz.github.io/img/img/cont3_cake8.png"
+    "img": "https://runwithoz.github.io/ex_img/cont3_cake8.png"
   }
 ]
