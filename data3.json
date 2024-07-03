@@ -1,0 +1,23 @@
+[
+  {
+    "id": 9,
+    "title": "menu9",
+    "content": "Only 5 inches",
+    "price": 12000,
+    "img": "https://runwithoz.github.io/ex_img/cont3_cake9.png"
+  },
+  {
+    "id": 10,
+    "title": "menu10",
+    "content": "for less than 6",
+    "price": 11000,
+    "img": "https://runwithoz.github.io/ex_img/cont3_cake10.png"
+  },
+  {
+    "id": 11,
+    "title": "menu11",
+    "content": "Born in France",
+    "price": 15000,
+    "img": "https://runwithoz.github.io/ex_img/cont3_cake3.png"
+  }
+]
